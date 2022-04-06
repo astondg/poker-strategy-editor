@@ -1,0 +1,1 @@
+export type BotFieldType = 'string' | 'number' | 'string[]' | 'number[]';
